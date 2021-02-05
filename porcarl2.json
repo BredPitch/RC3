@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<menschmeier>\/komonarc3\/main.json#start}"
+                 "value":"greencarl.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<menschmeier>\/komonarc3\/main.json#start}"
+                 "value":"carl.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
