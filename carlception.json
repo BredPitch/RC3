@@ -690,7 +690,7 @@
         {
          "columns":64,
          "firstgid":1,
-         "image":"assets\/tilesets\/carlception.png",
+         "image":"..\/RC3_21\/assets\/tilesets\/carlception.png",
          "imageheight":1600,
          "imagewidth":2048,
          "margin":0,
@@ -1544,13 +1544,13 @@
         {
          "columns":9,
          "firstgid":3201,
-         "image":"..\/github\/radiocarl\/tilesets\/hidden_layers.png",
+         "image":"..\/RC3_21\/assets\/tilesets\/hidden_layers.png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
          "name":"hidden_layers",
          "spacing":0,
-         "tilecount":0,
+         "tilecount":72,
          "tileheight":32,
          "tilewidth":32
         }],
